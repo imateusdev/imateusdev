@@ -1,8 +1,5 @@
 <h1 align="center">Hello! I am Mateus 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/imateusdev.png" width="200" style="border-radius:50%">
-</p>
 
 # 👨‍💻 Full Stack Developer
 Brazilian developer focused on creating innovative and efficient software solutions. I enjoy solving complex problems, optimizing performance, and continuously improving my skills.  
