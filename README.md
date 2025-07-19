@@ -30,6 +30,6 @@ If you're interested in discussing technology, collaborating on projects, or jus
 ## 📫 Contact  
 <p align="center">
   <a href="mailto:imateusdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/mateus-anacleto-18b548237/)/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mateusanacleto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
